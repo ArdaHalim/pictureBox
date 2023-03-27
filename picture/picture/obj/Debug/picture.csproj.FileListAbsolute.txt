@@ -1,0 +1,9 @@
+C:\Users\arda.halim\Desktop\C#\picture\picture\bin\Debug\picture.exe
+C:\Users\arda.halim\Desktop\C#\picture\picture\bin\Debug\picture.pdb
+C:\Users\arda.halim\Desktop\C#\picture\picture\obj\Debug\picture.csproj.AssemblyReference.cache
+C:\Users\arda.halim\Desktop\C#\picture\picture\obj\Debug\picture.Form1.resources
+C:\Users\arda.halim\Desktop\C#\picture\picture\obj\Debug\picture.Properties.Resources.resources
+C:\Users\arda.halim\Desktop\C#\picture\picture\obj\Debug\picture.csproj.GenerateResource.cache
+C:\Users\arda.halim\Desktop\C#\picture\picture\obj\Debug\picture.csproj.CoreCompileInputs.cache
+C:\Users\arda.halim\Desktop\C#\picture\picture\obj\Debug\picture.exe
+C:\Users\arda.halim\Desktop\C#\picture\picture\obj\Debug\picture.pdb
